@@ -1,0 +1,7 @@
+export type UserRole =
+  | 'SUPER_ADMIN'
+  | 'CANDIDATE'
+  | 'CENTER_ADMIN'
+  | 'MINISTRY'
+  | 'COMMITTEE_MEMBER'
+  | 'DIRECTOR_OPERATIONS';
