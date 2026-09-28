@@ -19,7 +19,10 @@
       },
       "predictiveBackGestureEnabled": false,
       "package": "com.shanihusnain.communityhealerscandidate",
-      "softwareKeyboardLayoutMode": "resize"
+      "softwareKeyboardLayoutMode": "resize",
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
     },
     "androidNavigationBar": {
       "backgroundColor": "#FFFFFF",
@@ -61,6 +64,9 @@
         "projectId": "ab153046-9c63-43e1-8396-b1949cfdd224"
       }
     },
-    "owner": "shanihusnain"
+    "owner": "shanihusnain",
+    "updates": {
+      "url": "https://u.expo.dev/ab153046-9c63-43e1-8396-b1949cfdd224"
+    }
   }
 }
